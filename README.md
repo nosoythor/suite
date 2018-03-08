@@ -1,4 +1,4 @@
 # suite
 Suite of TAHERO
 
-Esta suite comprende diversas herramientas
+Suite de herramientas de mejora analitica
